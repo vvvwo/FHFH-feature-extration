@@ -1,4 +1,7 @@
-# FHFH-feature-extration
+# FPFH-feature-extration
+
+Update in 2023.1.5
+
 Based on the pcl, we extract FPFH features from a point cloud and store into a file
 
 The project is generated based on VS2022 and PCL 1.8.1.
